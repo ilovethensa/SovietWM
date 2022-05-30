@@ -1,4 +1,4 @@
-# <p align="center">SovietWM - Configuration Documentation</p>
+# SovietWM - Configuration Documentation
 
 **Please note:** This may be out of date
 
