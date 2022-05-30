@@ -18,11 +18,11 @@ SovietWM is an extremely crappy window manager that I developed out of boredom u
 
 ## Installation
 
-Please see the [docs](https://theholytachanka.github.io/SovietWM/INSTALL.md) to build it from source.
+Please see the [docs](https://theholytachanka.github.io/SovietWM/INSTALL) to build it from source.
 
 ## Customisation
 
-To configure and customise SWM please see the [docs](https://theholytachanka.github.io/SovietWM/configure.md).
+To configure and customise SWM please see the [docs](https://theholytachanka.github.io/SovietWM/configure).
 
 ## Contributing
 just make a PR with a list of features you added
