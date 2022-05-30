@@ -1,16 +1,29 @@
-# <p align="center">SWM(SovietWM) - A really shitty wm</p>
+<p align="center">
+  <img src="https://i.imgur.com/awBLE8d.png" width="200"/>
+
+  <p align="center" ><font size="7">SovietWM - A Rust-based tiling window manager.</font></p>
+</p>
+
+
+
+
 
 **Please note:** I probably wont update this much so dont use it as your main wm
 
-SovietWM is a really shitty window manager written with the [penrose Window Manager library](https://github.com/sminez/penrose)
+## Description
+
+SovietWM is an extremely crappy window manager that I developed out of boredom using the [Penrose Window Manager library](https://github.com/sminez/penrose).
+
+
 
 ## Installation
 
-SovietWM is not currently packaged for any Linux distribution. 
+Please see the [docs](https://theholytachanka.github.io/SovietWM/INSTALL.md) to build it from source.
 
-Please see [INSTALL.md](https://github.com/MrBeeBenson/SovietWM/blob/main/docs/INSTALL.md) to build it from source.
+## Customisation
 
-## Customisation & Configuration
+To configure and customise SWM please see the [docs](https://theholytachanka.github.io/SovietWM/configure.md).
 
-To configure and customise SovietWM please see our [Configuration Documentation](https://github.com/MrBeeBenson/SovietWM/blob/main/docs/configure.md).
+## Contributing
+just make a PR with a list of features you added
 
