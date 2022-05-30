@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sovietwm
+Comment=shitty wm written in rust
+TryExec=sovietwm
+Exec=sovietwm
+Type=Application
+Keywords=Window manager
