@@ -1,4 +1,4 @@
-# <p align="center">SovietWM - Installation Guide</p>
+# SovietWM - Installation Guide
 
 ## Dependencies:
 
