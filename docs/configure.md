@@ -21,4 +21,4 @@ This instructs the Window Manager to start Steam. The capital "M" stands for MOD
 
 ## Utilising your changes
 
-Then to use this, you will need to recompile SovietWM [See installation documentation](https://theholytachanka.github.io/SovietWM/install.md)
+Then to use this, you will need to recompile SovietWM [See installation documentation](https://theholytachanka.github.io/SovietWM/install)
