@@ -22,6 +22,6 @@ make build
 sudo make install
 ```
 
-Then add `exec SovietWM` to the bottom of your `~/.xinitrc` file, or if you are using a login manager such as GDM or LightDM, simply switch the default WM/DM on login.
+Then add `exec sovietwm` to the bottom of your `~/.xinitrc` file, or if you are using a login manager such as GDM or LightDM, simply switch the default WM/DM on login.
 
 To learn how to do more configuration, please read our [Config docs](https://theholytachanka.github.io/SovietWM/configure).

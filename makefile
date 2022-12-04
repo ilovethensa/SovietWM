@@ -4,7 +4,7 @@ build:
 	cargo build --release
 
 install:
-	cp target/release/SovietWM /usr/bin/
+	cp target/release/sovietwm /usr/bin/
 	cp SovietWM.desktop /usr/share/xsessions/
 
 uninstall:
